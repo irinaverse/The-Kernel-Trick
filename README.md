@@ -1,2 +1,2 @@
-# The-Kernel-Trick
-let's do some magic
+# The Kernel Trick
+I am in doubt if I'll ever finish this document. Zauberling.
