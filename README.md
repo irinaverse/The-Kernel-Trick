@@ -1,2 +1,2 @@
-# The Kernel Trick
+## The Kernel Trick
 Zauberling.
